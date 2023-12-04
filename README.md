@@ -1,4 +1,4 @@
-# netlixdataset
+# netflixdataset
 
 ## Why this dataset? 
 The purpose of a dataset like this is to examine in greater detail who the target audience is for Netflix. From the data the company could make decisions on future content to add to their library. The company can also look at where in the world the majority of their revenue is coming from as well as be able to tell on what devices their content is most popular to be streamed from. Being able to know this information can be critical when making decisions on future improvements to the services and where to add them. 
