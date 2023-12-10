@@ -28,3 +28,16 @@ More data that has been filtered out is the plan duration length. As Netflix doe
 •	Github to host the final deployment
 •	Graphs to show trends 
 ![image](https://github.com/araneoaatwit/netlixdataset/assets/71513040/b08319c5-8a8d-4798-875c-c07097e2ba5b)
+
+Results
+
+
+•	Do different countries prefer different ways of enjoying the entertainment.?
+
+ 
+ 
+
+
+
+•	What demographic of people have the most Netflix subscriptions( male in their 40s? female in their 20s?
+![image](https://github.com/araneoaatwit/netlixdataset/assets/71513040/e4406cb3-abc8-473f-b186-77d2bdc02c87)
