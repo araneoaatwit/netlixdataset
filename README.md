@@ -1,6 +1,6 @@
 FIGURES appear to not Show !!!!!
 
-Data Science Report Draft
+Data Science Repor
 Austin Araneo 
 
 # Introduction
