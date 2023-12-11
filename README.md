@@ -1,3 +1,5 @@
+FIGURES appear to not Show !!!!!
+
 Data Science Report Draft
 Austin Araneo 
 
