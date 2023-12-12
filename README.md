@@ -72,7 +72,15 @@ Fig 5
  
 Fig 6
 
-Summary
+##Discussion
+
+Being able to experement with a dataset that only had 2500 items made running funtions that required several pass throughs of the dada much faster. I learned from this that I would like more information as most of it is ballanced though. Otheer users experemented with this data set and showed a simular experience. The answers that Were found were acceptible for the infprmation that was provided and the fact that netflix has 247.2 Million subscribers this is a very small set of users taken for this. It would be interesting to see other datasets that are out there on the same topic to compare.
+
+While searching Kagggle for this data set there were other discussions on this. It appeared that there is an option to download even more netflix data that I could not figure out nor could several other users. The biggest upside of this dayaset is that it was very user friendly and there was no filling in missing or modifying of that. 
+
+A few challanges that I had came when it was filtering all the data properly. Searching the data and getting rid of the duplicates took some googleing but it as then a very usefull tool as well as being able to concationate terms. Both of these made working with the dataset much easier and elped create the graphs with not as much work once all the filering sorting and concationation was done.
+
+## Summary
 There were some shocking results in this data set of Netflix Users. It appeared to have more Users from the US and Spain than some of the other countries. This could be a contributing factor to some of the results. Netflix users did tend to prefer the Basic plan as opposed to the Premium or the Standard. It would be interesting if more data was available to investigate why people have Netflix over other streaming services.  One reason could end up being because Netflix is watched mostly on tablets, phones, and laptops those do not require the higher quality bitrate the other plans offer. Another statistic that is not included bit worth noting is there is no data how many people are using each account. If most accounts are only one person then they would not need the feature to stream on multiple devices at once. 
 
 This Project gave me the ability to take a dataset and take some deeper dives into what data scientists do with it. By manipulating the data even further there is the possibility to get even more understanding of the users in this study. The ways that the questions ae laid out ae built o be able to expended even if there was a dataset much larger.  
