@@ -72,7 +72,7 @@ Fig 5
  
 Fig 6
 
-##Discussion
+## Discussion
 
 Being able to experement with a dataset that only had 2500 items made running funtions that required several pass throughs of the dada much faster. I learned from this that I would like more information as most of it is ballanced though. Otheer users experemented with this data set and showed a simular experience. The answers that Were found were acceptible for the infprmation that was provided and the fact that netflix has 247.2 Million subscribers this is a very small set of users taken for this. It would be interesting to see other datasets that are out there on the same topic to compare.
 
